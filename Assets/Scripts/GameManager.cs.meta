@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f726826475b54eb4cbef36cc3cca59e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuPrincipal: {instanceID: 0}
+  - menuGameOver: {instanceID: 0}
+  - colum: {instanceID: 0}
+  - background: {instanceID: 0}
+  - piedra1: {instanceID: 0}
+  - piedra2: {instanceID: 0}
+  - caja: {instanceID: 0}
+  - moneda: {fileID: 1591684419216345338, guid: bccb0c826dd9781428dffdb35b7c175e, type: 3}
+  - buzon: {instanceID: 0}
+  - nube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
